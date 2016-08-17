@@ -1,4 +1,6 @@
 typography_spectrum: 0.8375871735624969
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8121461241971701
   lightness: 0.0026494255289435387
@@ -11,6 +13,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.5324877931270748
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/be17d998-e3f7-4f7c-ad45-7fb5ef35b8b0.png
 name: Pete Spence Photography
-title: Pete Spence Photography
+title: 'Portrait, Lifestyle, Wedding Photographer'
 description: 'Portait, Lifestyle, Wedding Photographer'
